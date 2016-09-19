@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: ChatBot
+PURPOSE OF PROJECT: Entertainment
+VERSION or DATE: 1.4
+AUTHORS: Me
+USER INSTRUCTIONS: Have fun! Don't take this too seriously :) It's for laughs and practice coding.
